@@ -2,8 +2,10 @@
 pandas>=2.0.0
 matplotlib>=3.7.0
 scikit-learn>=1.2.0
-numpy>=1.24.0
+numpy=2.1.1
+numba==0.62.1
 imbalanced-learn>=0.10.0
+ydata-profiling
 
 # Dependências para execução de notebooks
 ipykernel>=6.0.0
